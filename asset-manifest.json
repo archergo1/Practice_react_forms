@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Practice_react_forms/static/js/main.1ae19e75.chunk.js",
+    "main.js.map": "/Practice_react_forms/static/js/main.1ae19e75.chunk.js.map",
+    "runtime-main.js": "/Practice_react_forms/static/js/runtime-main.9aaf4199.js",
+    "runtime-main.js.map": "/Practice_react_forms/static/js/runtime-main.9aaf4199.js.map",
+    "static/js/2.28a53448.chunk.js": "/Practice_react_forms/static/js/2.28a53448.chunk.js",
+    "static/js/2.28a53448.chunk.js.map": "/Practice_react_forms/static/js/2.28a53448.chunk.js.map",
+    "index.html": "/Practice_react_forms/index.html",
+    "precache-manifest.834c409a7666de9002531a906dc1f29e.js": "/Practice_react_forms/precache-manifest.834c409a7666de9002531a906dc1f29e.js",
+    "service-worker.js": "/Practice_react_forms/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9aaf4199.js",
+    "static/js/2.28a53448.chunk.js",
+    "static/js/main.1ae19e75.chunk.js"
+  ]
+}
